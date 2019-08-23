@@ -1,6 +1,6 @@
 # Chingu Voyage Pre-work Project (Tier 3): Book Finder
 
-Chingu Voyage Pre-Work Tier2 Solo Project Specifications
+Chingu Voyage Pre-Work Tier3 Solo Project Specifications
 
 ![Tier3 Book Finder](./assets/book-finder-results.png)
 
