@@ -8,7 +8,7 @@ Chingu Voyage Pre-Work Tier2 Solo Project Specifications
 
 This project helps you gain experience in using API's to enhance your applications.
 Your objective with this project is to build a web application using the
-Google Books API to build a search engine to help users search for books.
+Google Books API to build a search engine to allow users to search for books.
 
 ## Instructions
 
