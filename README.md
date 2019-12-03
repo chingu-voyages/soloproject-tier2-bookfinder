@@ -26,10 +26,11 @@ framework like Django, VueJS, Angular, React, etc.
   - [ ] Setting up a request aka plugging in search terms, limits to the returned result, etc
   - [ ] How to query only for the exact info you need.
 - Setup your parent component with at least the following:
-  - [ ] Search input
+  - [ ] Search input element and button
   - [ ] Book cards
-- [ ] Create Search Input Element and Button
-- Create a stateless book card component. This component does not need to keep any state; it's a pure component that just outputs a rendered component containing:
+- Create a stateless book card component. This component does not need to keep 
+any state; it's a pure component that just outputs a rendered component 
+containing:
   - [ ] Cover image
   - [ ] Title
   - [ ] Author
@@ -45,13 +46,14 @@ font, font size, color scheme, layout, etc.).
 *Functionality*
 - [ ] Make an API call to Google Books API and handle loading, resolved, and 
 error conditions
-- [ ] Iterate over the returned results, and pass in individual book data into 
-your book card component. 
+- [ ] Accept book search terms in the search input element and search for
+matching books when the 'Search' button is clicked. Iterate over the returned 
+results to display the book cards with the information noted above. 
 
 *Other*
 - [ ] Your repo needs to have a robust `README.md` (See [Keys to a Well-Written Readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d))
 - [ ] Before submitting make sure that there are no errors in the developer console
-- Anticipate and handle any edge cases. Think about what the user will see 
+- [ ] Anticipate and handle any edge cases. Think about what the user will see 
 and how the app should handle edge cases such as these:
   - [ ] Does entering random data, such as a mix of alphbetic, numeric, and
   special characters in the search input result in an error?
