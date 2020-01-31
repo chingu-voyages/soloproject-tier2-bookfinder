@@ -1,4 +1,4 @@
-# Chingu Voyage Pre-work Project (Tier 3): Book Finder
+# Chingu Solo Project - Tier3 - Bookfinder
 
 ![Tier3 Book Finder](./assets/book-finder-results.png)
 
