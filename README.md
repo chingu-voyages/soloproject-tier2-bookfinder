@@ -1,6 +1,6 @@
-# Chingu Solo Project - Tier3 - Bookfinder
+# Chingu Solo Project - Tier2 - Bookfinder
 
-![Tier3 Book Finder](./assets/book-finder-results.png)
+![Tier2 Book Finder](./assets/book-finder-results.png)
 
 ## Overview
 
